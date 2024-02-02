@@ -1,0 +1,1 @@
+python train.py -c /home/ntu/PycharmProjects/CY/Data/Configs/config.json -d 0
